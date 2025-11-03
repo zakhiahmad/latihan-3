@@ -1,5 +1,5 @@
 body {
-  background: #f8f9fb;
+  background: #dadbdb;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -7,12 +7,12 @@ body {
   font-family: "Segoe UI", sans-serif;
 }
 
-.card {
+.kartu {
   position: relative;
   width: 700px;
   background: #fff;
   border-radius: 16px;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 10px rgba(8, 8, 8, 0.05);
   text-align: center;
   padding: 40px 30px 50px;
   border-bottom: 5px solid #1d9bf0;
